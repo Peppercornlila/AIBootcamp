@@ -1,2 +1,2 @@
 # AIBootcamp
-AI Bootcamp wiht Codecademy
+AI Bootcamp with Codecademy
